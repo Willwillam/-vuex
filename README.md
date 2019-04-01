@@ -3,7 +3,7 @@
 > A Vue.js project
 ## Description
 - 父子传值 兄弟传值  爷孙传值 任意组件传值
-- vuex 的使用(state getter mutation action)
+- vuex 的使用
 ## Build Setup
 
 ``` bash
